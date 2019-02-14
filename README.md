@@ -43,6 +43,8 @@ Add a deployment script to your `package.json`
 }
 ```
 
+asdfasdf
+
 After configuring credentials (see below), you can now execute `npm run build && npm run deploy` to have your site be build and immediately deployed to S3.
 
 ## Credentials
